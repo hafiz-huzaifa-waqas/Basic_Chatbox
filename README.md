@@ -22,7 +22,7 @@ ELIZA, developed in the 1960s, was one of the first rule-based chatbots. This pr
 --> Polite Responses (Handles greetings, farewells, and small talk to make the conversation feel more interactive.)
 
 
-## Note:
+## 📌Note:
 > This chatbot does not use AI or machine learning models, it's based entirely on conditional logic and sentiment polarity via TextBlob.
 
 
