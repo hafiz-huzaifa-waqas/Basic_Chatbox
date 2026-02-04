@@ -10,13 +10,19 @@ ELIZA, developed in the 1960s, was one of the first rule-based chatbots. This pr
 
 ## Features:
 ***Mood Detection:*** Detects user’s mood using TextBlob sentiment analysis and suggests a suitable activity based on the mood. 
+
 --> Tells a joke
+
 --> Tells a fact
+
 --> Asks a riddle
+
 --> Offers small games(guess number, Rock-Paper-scissor)
+
 --> Polite Responses (Handles greetings, farewells, and small talk to make the conversation feel more interactive.)
 
+
 ## Note:
-> This chatbot does not use AI or machine learning models — it's based entirely on conditional logic and sentiment polarity via TextBlob.
+> This chatbot does not use AI or machine learning models, it's based entirely on conditional logic and sentiment polarity via TextBlob.
 
 
